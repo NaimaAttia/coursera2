@@ -41,10 +41,10 @@ section.player1>h2 {
     background-color: #FFFC33;
 }
 section.player2>h2 {
-    background-color: #E633FF;
+    background-color: #33ACFF;
 }
 section.player3>h2 {
-    background-color: #33ACFF;
+    background-color: #E633FF;
 }
 section>p {
     padding: 40px 10px 10px 10px;
